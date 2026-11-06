@@ -5,7 +5,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Le public cible
 
 - Type de joueur visé (fonceur ou explorateur) : Étudiants
-- Catégorie et genre : RPG,
+- Catégorie et genre : RPG, roguelike,
 - Le concept en une phrase (un personnage, un objectif, un obstacle) : Les caractéristiques du personnage sont basées sur celles de la character sheet de l'étudiant.
 
 ## Les mécaniques
