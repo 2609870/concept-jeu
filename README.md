@@ -4,9 +4,9 @@ Projet conçu en équipe avec : [prénoms des coéquipiers]
 
 ## Le public cible
 
-- Type de joueur visé (fonceur ou explorateur) : ...
-- Catégorie et genre : ...
-- Le concept en une phrase (un personnage, un objectif, un obstacle) : ...
+- Type de joueur visé (fonceur ou explorateur) : Étudiants
+- Catégorie et genre : RPG,
+- Le concept en une phrase (un personnage, un objectif, un obstacle) : Les caractéristiques du personnage sont basées sur celles de la character sheet de l'étudiant.
 
 ## Les mécaniques
 
