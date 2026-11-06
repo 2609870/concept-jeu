@@ -1,6 +1,6 @@
 # Titre du jeu
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Rémi, Federer
 
 ## Le public cible
 
@@ -14,7 +14,7 @@ Projet conçu en équipe avec : [prénoms des coéquipiers]
 - Condition de victoire : ...
 - Condition de défaite : ...
 - Mécanique cœur : ...
-- Mécanique secondaire : ...
+- Mécanique secondaire : Score,
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
