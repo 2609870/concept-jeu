@@ -5,7 +5,7 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Le public cible
 
 - Type de joueur visé (fonceur ou explorateur) : Étudiants
-- Catégorie et genre : RPG, (roguelike/roguelite)
+- Catégorie et genre : RPG, roguelike
 - Le concept en une phrase (un personnage, un objectif, un obstacle) : Les caractéristiques du personnage sont basées sur celles de la character sheet de l'étudiant.
 
 ## Les mécaniques
@@ -21,9 +21,11 @@ Projet conçu en équipe avec : Rémi, Federer
 ## Les phases de jeu
 
 - La boucle de jeu (action → rétroaction → récompense) : ...
-- Phase 1 : ... (règles, contrôles, interface)
+- Phase 1 : Exploration (règles, contrôles, interface)
     - Transition vers la phase 2 : ...
-- Phase 2 : ... (règles, contrôles, interface)
+- Phase 2 : Menu (règles, contrôles, interface)
+    - Transition vers la phase suivante : ...
+- Phase 3 : Combat (règles, contrôles, interface)
     - Transition vers la phase suivante ou la fin : ...
 
 ## Le fun et le flow
@@ -49,7 +51,9 @@ Projet conçu en équipe avec : Rémi, Federer
 - La palette de couleurs : ...
 - Trois images de référence : [image 1](lien), [image 2](lien), [image 3](lien)
 - L'ambiance sonore : ...
-- Les objets jouables : ...
+- Les objets jouables :
+    - De base : potions(soin, antidote, altération d'état, etc.), armes simples(épée, arc, bâton, hache, etc.), pièces d'équipement, enchantements permanents pour les armes
+    - Spéciaux(projets désignés objets par le joueur qui doit aussi indiquer quel type d'objet(les stats de l'objet dépendent de ceux du projet)) : Armes(de proche, magique, lancée ou à munitions), pièges plaçables en phase d'exploration(empoisonne, paralyse, explose, brûle, etc.), pièces d'équipement, potions
 - Croquis de l'interface :
 
 ![Interface](interface.jpg)
