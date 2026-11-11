@@ -13,7 +13,9 @@ Projet conçu en équipe avec : Rémi, Federer
 - Objectif du jeu : Battre le boss de fin
 - Condition de victoire : Finir les X(varie selon la difficulté choisie(4 par défaut)) temples et se rendre jusqu'au boss tout en haut de sa tour
 - Condition de défaite : Perdre un combat
-- Mécanique cœur : ...
+- Mécaniques cœur :
+    - Exploration ()
+    - Combat ()
 - Mécaniques secondaires :
     - Score ()
     - Gouffre ()
