@@ -6,15 +6,15 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - Type de joueur visé (fonceur ou explorateur) : Étudiants
 - Catégorie et genre : RPG, roguelike
-- Le concept en une phrase (un personnage, un objectif, un obstacle) : Les caractéristiques du personnage sont basées sur celles de la character sheet de l'étudiant.
+- Le concept en une phrase (un personnage, un objectif, un obstacle) : Les caractéristiques du personnage sont basées sur celles de la Character sheet de l'étudiant.
 
 ## Les mécaniques
 
-- Objectif du jeu : ...
-- Condition de victoire : ...
-- Condition de défaite : ...
+- Objectif du jeu : Battre le boss de fin
+- Condition de victoire : Finir les X(varie selon la difficulté choisie(4 par défaut)) temples et se rendre jusqu'au boss tout en haut de sa tour
+- Condition de défaite : Perdre un combat
 - Mécanique cœur : ...
-- Mécanique secondaire : Score,
+- Mécaniques secondaires : ...
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
@@ -42,7 +42,7 @@ Projet conçu en équipe avec : Rémi, Federer
 - La source du fun pour le type de joueur visé (sans utiliser le mot *fun*) : ...
 - Le flow (équilibre défi / capacités) : ...
 - La rétroaction (son, lumière, animation) : ...
-- La rejouabilité (pourquoi recommencer) : nouveau record, génération procédurale, lien avec Character sheet, découvrir secrets, essayer nouvelle difficulté,
+- La rejouabilité (pourquoi recommencer) : nouveau record, génération procédurale, lien avec Character sheet, découvrir secrets, essayer avec nouvelle difficulté
 
 ## L'histoire
 
