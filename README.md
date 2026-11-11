@@ -14,13 +14,16 @@ Projet conçu en équipe avec : Rémi, Federer
 - Condition de victoire : Finir les X(varie selon la difficulté choisie(4 par défaut)) temples et se rendre jusqu'au boss tout en haut de sa tour
 - Condition de défaite : Perdre un combat
 - Mécanique cœur : ...
-- Mécaniques secondaires : ...
+- Mécaniques secondaires :
+    - Score ()
+    - Gouffre ()
+    - 
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
 ## Les phases de jeu
 
-- La boucle de jeu (action → rétroaction → récompense) : ...
+- La boucle de jeu (action → rétroaction → récompense) : Exploration -> Quête/Combat/Nouvel endroit -> Or/Exp/Coffre(Objet)
 - Phase 0 : Menu (règles, contrôles, interface)
     - Transition vers la phase précédente : ...
 - Phase 1 : Écran titre (règles, contrôles, interface)
