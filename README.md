@@ -16,10 +16,14 @@ Projet conçu en équipe avec : Rémi, Federer
 - Mécaniques cœur :
     - Exploration ()
     - Combat ()
+    - Génération procédurale ()
+    - Mort permanente ()
+    - Personnalisation ()
 - Mécaniques secondaires :
     - Score ()
     - Gouffre ()
-    - 
+    - Secrets ()
+    - Objets ()
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
