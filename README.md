@@ -15,13 +15,13 @@ Projet conçu en équipe avec : Rémi, Federer
 - Condition de défaite : Perdre un combat
 - Mécaniques cœur :
     - Exploration ()
+    - Dongeons ()
     - Combat ()
     - Génération procédurale ()
     - Mort permanente ()
     - Personnalisation ()
 - Mécaniques secondaires :
     - Score ()
-    - Gouffre ()
     - Secrets ()
     - Objets ()
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
