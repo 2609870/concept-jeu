@@ -78,7 +78,7 @@ Projet conçu en équipe avec : Rémi, Federer
     - IU : Basé sur la character sheet (pour bien intégrer le jeu)
     - Personnages, monstres, tileset, etc. : Pixel art avec coins arrondis (identité visuelle simple, uniforme et facile à produire)
 - La palette de couleurs : ![Palette](Palette.png)
-- Trois images de référence : [image 1](lien), [image 2](lien), [image 3](lien)
+- Trois images de référence (avec lesquelles j'ai testé la palette) : [image 1](lien), [image 2](lien), [image 3](lien)
 - L'ambiance sonore : ...
 - Les objets jouables :
     - De base : potions(soin, antidote, altération d'état, etc.), armes simples(épée, arc, bâton, hache, etc.), pièces d'équipement, enchantements permanents pour les armes
