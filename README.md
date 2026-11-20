@@ -58,7 +58,7 @@ Projet conçu en équipe avec : Rémi, Federer
     - Transition vers la phase 4 : Se déplacer sur un donjon
     - Transition vers la phase 5 : Tomber sur une rencontre aléatoire
 - Phase 4 : Donjon (règles, contrôles, interface)
-    Contrôles:
+    - Contrôles:
       - Se déplacer: A,S,W,D
       - Ouvrir le menu: E
       - Interagir avec qqchose: Barre d'espace
