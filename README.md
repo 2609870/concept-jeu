@@ -15,10 +15,10 @@ Projet conçu en équipe avec : Rémi, Federer
 - Condition de défaite : Perdre un combat
 - Mécaniques cœur :
     - Exploration ()
-    - Dongeons ()
+    - Donjons ()
     - Combat ()
-    - Génération procédurale ()
-    - Mort permanente ()
+    - Génération procédurale (Chaque zone est générée procéduralement)
+    - Mort permanente (Quand le joueur perd un combat, il doit recommencer du début)
     - Personnalisation ()
 - Mécaniques secondaires :
     - Score ()
