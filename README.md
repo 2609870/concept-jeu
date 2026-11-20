@@ -34,47 +34,42 @@ Projet conçu en équipe avec : Rémi, Federer
     Contrôles:
       - Déplacer le curseur: A,S,W,D
       - Confirmer la sélection : Barre d'espace
-    - Transition vers la phase précédente : ...
-- Phase 1 : Écran titre (règles, contrôles, interface)
+    - Transition vers la phase précédente : Sélectionner "Fermer" dans le menu
+- Phase 1 : Ville (règles, contrôles, interface)
+    Contrôles:
+      - Se déplacer: A,S,W,D
+      - Ouvrir le menu: E
+      - Interagir avec qqchose: Barre d'espace
+    - Transition vers la phase 0 : Appuyer sur E
+    - Transition vers la phase 2 : Entrer dans une boutique
+    - Transition vers la phase 3 : Quitter la ville
+- Phase 2 : Boutique (règles, contrôles, interface)
     Contrôles:
       - Déplacer le curseur: A,S,W,D
       - Confirmer la sélection : Barre d'espace
-    - Transition vers la phase 2 : ...
-- Phase 2 : Ville (règles, contrôles, interface)
+    - Transition vers la phase 1 : Sélectionner "Quitter" dans le menu de boutique
+- Phase 3 : Carte du monde (règles, contrôles, interface)
     Contrôles:
       - Se déplacer: A,S,W,D
+      - Ouvrir le menu: E
       - Interagir avec qqchose: Barre d'espace
-    - Transition vers la phase 0 : ...
-    - Transition vers la phase 3 : ...
-    - Transition vers la phase 4 : ...
-    - Transition vers la phase 6 : ...
-- Phase 3 : Boutique (règles, contrôles, interface)
+    - Transition vers la phase 0 : Appuyer sur E
+    - Transition vers la phase 1 : Se déplacer sur une ville     
+    - Transition vers la phase 4 : Se déplacer sur un donjon
+    - Transition vers la phase 5 : Tomber sur une rencontre aléatoire
+- Phase 4 : Donjon (règles, contrôles, interface)
+    Contrôles:
+      - Se déplacer: A,S,W,D
+      - Ouvrir le menu: E
+      - Interagir avec qqchose: Barre d'espace
+    - Transition vers la phase 0 : Appuyer sur E
+    - Transition vers la phase 3 : Quitter le donjon (après avoir obtenu la clé en battant son boss)
+    - Transition vers la phase 5 : Entrer en contact avec un ennemi
+- Phase 5 : Combat (règles, contrôles, interface)
     Contrôles:
       - Déplacer le curseur: A,S,W,D
       - Confirmer la sélection : Barre d'espace
-    - Transition vers la phase 2 : ...
-- Phase 4 : Carte du monde (règles, contrôles, interface)
-    Contrôles:
-      - Se déplacer: A,S,W,D
-      - Interagir avec qqchose: Barre d'espace
-    - Transition vers la phase 0 : ...
-    - Transition vers la phase 2 : ...     
-    - Transition vers la phase 5 : ...
-    - Transition vers la phase 6 : ...
-- Phase 5 : Donjon (règles, contrôles, interface)
-    Contrôles:
-      - Se déplacer: A,S,W,D
-      - Interagir avec qqchose: Barre d'espace
-    - Transition vers la phase 0 : ...
-    - Transition vers la phase 4 : ...
-    - Transition vers la phase 6 : ...
-- Phase 6 : Combat (règles, contrôles, interface)
-    Contrôles:
-      - Déplacer le curseur: A,S,W,D
-      - Confirmer la sélection : Barre d'espace
-    - Transition vers la phase précédente (ou 7 si c'était le boss final) : ...
-- Phase 7 : Fin (règles, contrôles, interface)
-    - Transition vers la phase 1 : ...
+    - Transition vers la phase précédente : Gagner le combat
 
 ## Le fun et le flow
 
