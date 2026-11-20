@@ -36,7 +36,7 @@ Projet conçu en équipe avec : Rémi, Federer
       - Confirmer la sélection : Barre d'espace
     - Transition vers la phase précédente : Sélectionner "Fermer" dans le menu
 - Phase 1 : Ville (règles, contrôles, interface)
-    Contrôles:
+     - Contrôles:
       - Se déplacer: A,S,W,D
       - Ouvrir le menu: E
       - Interagir avec qqchose: Barre d'espace
