@@ -31,12 +31,12 @@ Projet conçu en équipe avec : Rémi, Federer
 
 - La boucle de jeu (action → rétroaction → récompense) : Exploration -> Quête/Combat/Nouvel endroit -> Or/Exp/Coffre(Objet)
 - Phase 0 : Menu (règles, contrôles, interface)
-    Contrôles:
+    - Contrôles:
       - Déplacer le curseur: A,S,W,D
       - Confirmer la sélection : Barre d'espace
     - Transition vers la phase précédente : Sélectionner "Fermer" dans le menu
 - Phase 1 : Ville (règles, contrôles, interface)
-     - Contrôles:
+    - Contrôles:
       - Se déplacer: A,S,W,D
       - Ouvrir le menu: E
       - Interagir avec qqchose: Barre d'espace
@@ -44,12 +44,12 @@ Projet conçu en équipe avec : Rémi, Federer
     - Transition vers la phase 2 : Entrer dans une boutique
     - Transition vers la phase 3 : Quitter la ville
 - Phase 2 : Boutique (règles, contrôles, interface)
-    Contrôles:
+    - Contrôles:
       - Déplacer le curseur: A,S,W,D
       - Confirmer la sélection : Barre d'espace
     - Transition vers la phase 1 : Sélectionner "Quitter" dans le menu de boutique
 - Phase 3 : Carte du monde (règles, contrôles, interface)
-    Contrôles:
+    - Contrôles:
       - Se déplacer: A,S,W,D
       - Ouvrir le menu: E
       - Interagir avec qqchose: Barre d'espace
@@ -66,7 +66,7 @@ Projet conçu en équipe avec : Rémi, Federer
     - Transition vers la phase 3 : Quitter le donjon (après avoir obtenu la clé en battant son boss)
     - Transition vers la phase 5 : Entrer en contact avec un ennemi
 - Phase 5 : Combat (règles, contrôles, interface)
-    Contrôles:
+    - Contrôles:
       - Déplacer le curseur: A,S,W,D
       - Confirmer la sélection : Barre d'espace
     - Transition vers la phase précédente : Gagner le combat
