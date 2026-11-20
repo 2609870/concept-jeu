@@ -19,7 +19,7 @@ Projet conçu en équipe avec : Rémi, Federer
     - Combat ()
     - Génération procédurale (Chaque zone est générée procéduralement)
     - Mort permanente (Quand le joueur perd un combat, il doit recommencer du début)
-    - Personnalisation ()
+    - Personnalisation (Les statistiques du personnage correspondent à celles de la character sheet et il y a des objets basés sur des projets de l'étudiant)
 - Mécaniques secondaires :
     - Score ()
     - Secrets ()
